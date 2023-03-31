@@ -6,4 +6,4 @@ int cmp_count = 0; // Number of comprasion
 int mov_count = 0; // Number of data movements 
 int n;
 
-
+void input() 
